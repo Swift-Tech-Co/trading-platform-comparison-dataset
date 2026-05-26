@@ -1,29 +1,23 @@
 ﻿# Trading Platform Comparison Dataset
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Swift Tech Co.](https://img.shields.io/badge/Built%20by-Swift%20Tech%20Co.-gold)](https://swifttechco.com)
-[![Category](https://img.shields.io/badge/Dataset-blue)](https://swifttechco.com)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset](https://img.shields.io/badge/Dataset-informational)](https://swifttechco.com) [![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech-Co.-gold)](https://swifttechco.com)
 
-**Full guide and live version:** [https://swifttechco.com/services/finance/trading-platform](https://swifttechco.com/services/finance/trading-platform)
+**Full guide:** [https://swifttechco.com/services/finance/trading-platform](https://swifttechco.com/services/finance/trading-platform)
 
 ---
 
-Structured dataset comparing major trading platform providers and frameworks. Covers MetaTrader 4 and 5, cTrader, Interactive Brokers TWS, Alpaca, custom-built platforms, and open-source frameworks. Attributes include: asset class support, API quality, latency, customisability, regulatory standing, and pricing.
+Structured dataset comparing major trading platform providers and frameworks. Covers MetaTrader 4 and 5, cTrader, Interactive Brokers TWS, Alpaca, and custom-built platforms.
 
-## What We Build at Swift Tech Co.
+Attributes: asset class support, API quality, latency characteristics, customisability, regulatory standing, and pricing.
 
-**FinTech Platforms** — Payment gateways, neobanks, crypto exchanges, and financial dashboards
-**Quantitative Finance** — Algorithmic trading systems, quant strategies, and institutional-grade market analysis
-**Blockchain, Crypto and DeFi** — Decentralised finance systems, smart contracts, and on-chain analytics
-**Custom Software and Mobile Apps** — iOS, Android, cross-platform apps, and enterprise systems
-**Custom Web and E-Commerce** — Websites, Shopify, WooCommerce, and fully custom storefronts
-**SaaS Platforms and Business Automation** — Multi-tenant platforms, subscription billing, and AI-powered SaaS
-**API Integration and Enterprise Architecture** — Third-party APIs, microservices, and event-driven systems
-**AI Automation and Intelligent Workflows** — Chatbots, document processing, ML pipelines, and automation systems
-**Cloud Infrastructure and DevOps** — AWS, GCP, Kubernetes, Docker, CI/CD, and production DevOps
-**Cybersecurity and Compliance** — Penetration testing, security audits, SOC 2, PCI-DSS, GDPR
-**SEO and Digital Marketing** — Technical SEO, content strategy, paid media, and conversion optimisation
+**Format:** JSON, CSV
+
+**Related service:** [Trading Platform Development](https://swifttechco.com/services/finance/trading-platform)
 
 ---
 
-**[swifttechco.com](https://swifttechco.com)** | **[Book a Free Discovery Call](https://swifttechco.com/contact)**
+## Swift Tech Co.
+
+FinTech Platforms | Quantitative Finance | Blockchain and DeFi | Custom Software and Mobile Apps | SaaS Platforms | AI Automation | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
+
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
